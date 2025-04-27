@@ -1,6 +1,6 @@
 # Heart Disease Prediction Using Machine Learning
 
-![Heart Disease Banner](./Hear_Disease_Cover.pdf)
+![Heart Disease Banner](./Heart_Disease_Cover.pdf)
 
 ## 📋 Project Overview
 
@@ -15,7 +15,7 @@ We have built and evaluated multiple machine learning models, aiming to find the
 ## 📂 Project Structure
 
 - `Heart_Disease.ipynb`: Jupyter Notebook containing full code — from data preprocessing to model evaluation.
-- `Hear_Disease_Cover.pdf`: Project cover image.
+- `Heart_Disease_Cover.pdf`: Project cover image.
 
 ---
 
