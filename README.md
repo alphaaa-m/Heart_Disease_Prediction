@@ -1,7 +1,6 @@
 # Heart Disease Prediction Using Machine Learning
 
-![Heart Disease Banner](./Heart_Disease_Cover.pdf)
-
+![Heart_Disease_Cover](https://github.com/alphaaa-m/Heart_Disease_Prediction/raw/main/Heart_Disease_Cover.pdf)
 ## 📋 Project Overview
 
 Heart disease is one of the leading causes of death globally. Early detection can significantly improve treatment outcomes and save lives.
