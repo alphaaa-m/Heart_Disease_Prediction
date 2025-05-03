@@ -57,8 +57,8 @@ We have built and evaluated multiple machine learning models, aiming to find the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Heart-Disease-Prediction.git
-   cd Heart-Disease-Prediction
+   git clone https://github.com/alphaaa-m/Heart_Disease_Prediction.git
+   cd Heart_Disease_Prediction
    ```
 
 2. Install the required libraries:
