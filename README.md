@@ -53,37 +53,6 @@ We have built and evaluated multiple machine learning models, aiming to find the
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/alphaaa-m/Heart_Disease_Prediction.git
-   cd Heart_Disease_Prediction
-   ```
-
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   *(Or manually install packages: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`)*
-
-3. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook Heart_Disease.ipynb
-   ```
-
-4. Execute all the cells and view the results.
-
----
-
-## 🧠 Key Libraries Used
-- `pandas`
-- `numpy`
-- `scikit-learn`
-- `matplotlib`
-- `seaborn`
-
----
 
 ## 👨‍💻 Author
 
